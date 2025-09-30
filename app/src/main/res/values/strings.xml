@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">UserDataSharedPref</string>
+    <string name="enter_message">Enter a message</string>
+    <string name="button_save">Save</string>
+    <string name="user_data">User Data</string>
+    <string name="user_data_key">User Data Key</string>
 </resources>
